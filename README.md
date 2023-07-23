@@ -1,1 +1,1 @@
-More robust PNNX downloads (#8866)
+Updated SQL Query Plot Code (#8120)
