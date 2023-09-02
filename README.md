@@ -1,1 +1,1 @@
-Mkdocs updates (#8008)
+Update neural-magic.md (#7347)
