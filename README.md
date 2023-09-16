@@ -1,1 +1,1 @@
-ultralytics 8.1.22 HUB model pathlib fix (#8621)
+Hold failed upload metrics and upload with next upload metrics (#8513)
