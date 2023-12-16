@@ -1,1 +1,1 @@
-Add missing Explorer docs reference pages (#7455)
+Explorer with LanceDB, Actions and Docs updates (#7487)
