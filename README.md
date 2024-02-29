@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Batch inference fixes (#8854)
