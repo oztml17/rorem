@@ -1,1 +1,1 @@
-fix resume training
+OpenVino 2024.0.0 (#8726)
