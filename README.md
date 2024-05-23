@@ -1,1 +1,1 @@
-Update fraction arg to employ a random selection (#8234)
+Fix Yolo 8.0.206 scale bug (#7821)
