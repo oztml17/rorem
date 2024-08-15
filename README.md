@@ -1,1 +1,1 @@
-Fix names bug when exporting YOLOv8-World to ONNX (#8941)
+Explorer API video https://youtu.be/3VryynorQeo  (#7838)
