@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Clarify triton server boolean value (#8532)
