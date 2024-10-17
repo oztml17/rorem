@@ -1,1 +1,1 @@
-* fix for KeyError: 'epoch'
+Update mkdocs.yml (#7693)
